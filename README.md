@@ -1,7 +1,7 @@
 leetcode_solutions
 ==================
 
-Solutions to Leetcode OJ
+My Solutions to Leetcode OJ
 
 Link to problems: https://oj.leetcode.com/problems
 
